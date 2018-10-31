@@ -1,2 +1,2 @@
 # ShakRep1
-For CYBG projet
+Just a demo for GIT commands 
